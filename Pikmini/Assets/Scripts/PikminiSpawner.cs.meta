@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: e650e662d7e51c94fac5b6e42258fb88
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pikminiPrefab: {fileID: 3237686569387352061, guid: 83babf4ebdeaa4dd297236e03efdaa8a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
